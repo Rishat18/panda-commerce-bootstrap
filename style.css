@@ -1,0 +1,37 @@
+.panda-color{
+        background-color:#fceae8;
+}
+.panda-color-2{
+            color:red;
+}
+.catagaries-color{
+    background-color: #ffa500;
+}
+.catagaries-color img{
+            width: 100px;
+           
+}
+.catagaries-color-2{
+            background-color: #da70d6;
+}
+.catagaries-color-2 img{
+        width: 100px;
+}
+.catagaries-color-3{
+            background-color: #0000ff;
+}
+.catagaries-color-3 img{
+        width: 100px;
+}
+.panda-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 20px;
+}
+.panda-footer{
+        background-color: black;
+        color: white;
+        height: 100px;
+}
